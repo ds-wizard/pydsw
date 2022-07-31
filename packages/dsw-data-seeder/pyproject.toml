@@ -4,7 +4,7 @@ build-backend = 'setuptools.build_meta'
 
 [project]
 name = 'dsw-data-seeder'
-version = '3.14.0.dev2'
+version = '3.14.0rc1'
 description = 'Worker for seeding DSW data'
 readme = 'README.md'
 keywords = ['data', 'database', 'seed', 'storage']
@@ -27,10 +27,10 @@ dependencies = [
     'click',
     'tenacity',
     # DSW
-    'dsw-command-queue==3.14.0.dev2',
-    'dsw-config==3.14.0.dev2',
-    'dsw-database==3.14.0.dev2',
-    'dsw-storage==3.14.0.dev2',
+    'dsw-command-queue==3.14.0rc1',
+    'dsw-config==3.14.0rc1',
+    'dsw-database==3.14.0rc1',
+    'dsw-storage==3.14.0rc1',
 ]
 
 [project.urls]

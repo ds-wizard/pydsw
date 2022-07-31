@@ -7,10 +7,12 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+
+## [3.14.0]
+
 ### Changed
 
 - Moved from [ds-wizard/data-seeder](https://github.com/ds-wizard/data-seeder) to the monorepo
-
 
 ## [3.13.0]
 
@@ -44,9 +46,10 @@ Released for version consistency with other DSW tools.
 
 
 [Unreleased]: /../../compare/main...develop
-[3.10.0]: /../../tree/v3.10.0
-[3.11.0]: /../../tree/v3.11.0
-[3.12.0]: /../../tree/v3.12.0
-[3.12.1]: /../../tree/v3.12.1
-[3.12.2]: /../../tree/v3.12.2
-[3.13.0]: /../../tree/v3.13.0
+[3.10.0]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.11.0]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.12.0]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.12.1]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.12.2]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.13.0]: https://github.com/ds-wizard/data-seeder/tree/v3.13.0
+[3.14.0]: /../../tree/v3.14.0

@@ -7,9 +7,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+
+## [3.14.0]
+
 ### Changed
 
 - Moved from [ds-wizard/document-worker](https://github.com/ds-wizard/document-worker) to the monorepo
 
 
 [Unreleased]: /../../compare/main...develop
+[3.14.0]: /../../tree/v3.14.0

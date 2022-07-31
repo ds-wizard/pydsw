@@ -4,7 +4,7 @@ build-backend = 'setuptools.build_meta'
 
 [project]
 name = 'dsw-storage'
-version = '3.14.0.dev2'
+version = '3.14.0rc1'
 description = 'Library for managing DSW S3 storage'
 readme = 'README.md'
 keywords = ['dsw', 's3', 'bucket', 'storage']
@@ -28,7 +28,7 @@ dependencies = [
     'minio',
     'tenacity',
     # DSW
-    'dsw-config==3.14.0.dev2',
+    'dsw-config==3.14.0rc1',
 ]
 
 [project.urls]

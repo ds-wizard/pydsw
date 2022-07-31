@@ -7,10 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+
+## [3.14.0]
+
 ### Changed
 
 - Moved from [ds-wizard/dsw-tdk](https://github.com/ds-wizard/dsw-tdk) to the monorepo
-
 
 ## [3.13.0]
 
@@ -173,28 +175,29 @@ Initial DSW Template Development Kit (versioned as part of the [DSW platform](ht
 - `package` for creating an importable ZIP package from local project
 
 [Unreleased]: /../../compare/main...develop
-[2.8.0]: /../../tree/v2.8.0
-[2.8.1]: /../../tree/v2.8.1
-[2.9.0]: /../../tree/v2.9.0
-[2.10.0]: /../../tree/v2.10.0
-[2.11.0]: /../../tree/v2.11.0
-[2.12.0]: /../../tree/v2.12.0
-[2.12.1]: /../../tree/v2.12.1
-[2.13.0]: /../../tree/v2.13.0
-[2.14.0]: /../../tree/v2.14.0
-[3.0.0]: /../../tree/v3.0.0
-[3.1.0]: /../../tree/v3.1.0
-[3.2.0]: /../../tree/v3.2.0
-[3.3.0]: /../../tree/v3.3.0
-[3.4.0]: /../../tree/v3.4.0
-[3.5.0]: /../../tree/v3.5.0
-[3.5.1]: /../../tree/v3.5.1
-[3.5.2]: /../../tree/v3.5.2
-[3.6.0]: /../../tree/v3.6.0
-[3.7.0]: /../../tree/v3.7.0
-[3.8.0]: /../../tree/v3.8.0
-[3.9.0]: /../../tree/v3.9.0
-[3.10.0]: /../../tree/v3.10.0
-[3.11.0]: /../../tree/v3.11.0
-[3.12.0]: /../../tree/v3.12.0
-[3.13.0]: /../../tree/v3.13.0
+[2.8.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.8.0
+[2.8.1]: https://github.com/ds-wizard/dsw-tdk/tree/v2.8.1
+[2.9.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.9.0
+[2.10.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.10.0
+[2.11.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.11.0
+[2.12.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.12.0
+[2.12.1]: https://github.com/ds-wizard/dsw-tdk/tree/v2.12.1
+[2.13.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.13.0
+[2.14.0]: https://github.com/ds-wizard/dsw-tdk/tree/v2.14.0
+[3.0.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.0.0
+[3.1.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.1.0
+[3.2.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.2.0
+[3.3.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.3.0
+[3.4.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.4.0
+[3.5.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.5.0
+[3.5.1]: https://github.com/ds-wizard/dsw-tdk/tree/v3.5.1
+[3.5.2]: https://github.com/ds-wizard/dsw-tdk/tree/v3.5.2
+[3.6.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.6.0
+[3.7.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.7.0
+[3.8.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.8.0
+[3.9.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.9.0
+[3.10.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.10.0
+[3.11.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.11.0
+[3.12.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.12.0
+[3.13.0]: https://github.com/ds-wizard/dsw-tdk/tree/v3.13.0
+[3.14.0]: /../../tree/v3.14.0

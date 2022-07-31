@@ -2,7 +2,7 @@ import pathspec  # type: ignore
 import re
 
 APP = 'dsw-tdk'
-VERSION = '3.14.0.dev2'
+VERSION = '3.14.0rc1'
 METAMODEL_VERSION = 10
 
 REGEX_SEMVER = re.compile(r'^[0-9]+\.[0-9]+\.[0-9]+$')

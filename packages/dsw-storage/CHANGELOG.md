@@ -7,9 +7,13 @@ to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+
+## [3.14.0]
+
 ### Added
 
 - Initiated this library from *dsw-data-seeder* and *dsw-document-worker*
 
 
 [Unreleased]: /../../compare/main...develop
+[3.14.0]: /../../tree/v3.14.0

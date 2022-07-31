@@ -4,7 +4,7 @@ build-backend = 'setuptools.build_meta'
 
 [project]
 name = 'dsw-command-queue'
-version = '3.14.0.dev2'
+version = '3.14.0rc1'
 description = 'Library for working with command queue and persistent commands'
 readme = 'README.md'
 keywords = ['dsw', 'subscriber', 'publisher', 'database', 'queue', 'processing']
@@ -27,7 +27,7 @@ classifiers = [
 requires-python = '>=3.7, <4'
 dependencies = [
     # DSW
-    'dsw-database==3.14.0.dev2',
+    'dsw-database==3.14.0rc1',
 ]
 
 [project.urls]
